@@ -1,7 +1,7 @@
 using Heroicsolo.SpiralSurvivor.LevelGeometry.Entities;
 using UnityEngine;
 
-namespace Heroicsolo.SpiralSurvivor.Utils
+namespace Heroicsolo.SpiralSurvivor.LevelGeometry.Utils
 {
     public static class SpiralSDF3D
     {

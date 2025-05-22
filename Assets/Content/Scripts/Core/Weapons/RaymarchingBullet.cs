@@ -1,5 +1,5 @@
 using HeroicEngine.Utils.Pooling;
-using Heroicsolo.SpiralSurvivor.Utils;
+using Heroicsolo.SpiralSurvivor.LevelGeometry.Utils;
 using UnityEngine;
 
 namespace Heroicsolo.SpiralSurvivor.Core.Weapons

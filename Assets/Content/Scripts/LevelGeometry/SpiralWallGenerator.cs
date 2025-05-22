@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using Heroicsolo.SpiralSurvivor.LevelGeometry.Entities;
-using Heroicsolo.SpiralSurvivor.Utils;
+using Heroicsolo.SpiralSurvivor.LevelGeometry.Utils;
 using UnityEngine;
 
 namespace Heroicsolo.SpiralSurvivor.LevelGeometry
