@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 26d8bdbc8646bde48b05fbaacaaa6577
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularDisplacement.mat
+  uploadId: 757345

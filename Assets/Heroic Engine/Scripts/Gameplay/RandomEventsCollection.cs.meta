@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f22bfc73f4fe5be40b66c7067515da18
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Scripts/Gameplay/RandomEventsCollection.cs
+  uploadId: 757345

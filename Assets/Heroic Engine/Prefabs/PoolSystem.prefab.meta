@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6c6e2c5bb3c665c41b38fd30b58f7cfd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Prefabs/PoolSystem.prefab
+  uploadId: 757345

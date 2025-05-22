@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0e447868506ba49f0a73235b8a8b647a
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader
+  uploadId: 757345

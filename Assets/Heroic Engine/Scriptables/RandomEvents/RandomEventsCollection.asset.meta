@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2465e38494707534aa9e15acc59fd1d3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Scriptables/RandomEvents/RandomEventsCollection.asset
+  uploadId: 757345

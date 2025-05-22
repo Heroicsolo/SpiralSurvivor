@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a70fb0890691fc34e87d3ba1f5861177
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Prefabs/RandomEventsManager.prefab
+  uploadId: 757345

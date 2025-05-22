@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 73202dd0f01ef0544be78b78547cecd8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Example/Prefabs/Player.prefab
+  uploadId: 757345

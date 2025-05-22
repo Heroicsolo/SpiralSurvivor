@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe1b4eda38e129044971eaf5c7f4d4bc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Prefabs/QuestManager.prefab
+  uploadId: 757345

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7cf2d0fe03ed7584fbaabd9a637a4833
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Prefabs/MusicPlayer.prefab
+  uploadId: 757345

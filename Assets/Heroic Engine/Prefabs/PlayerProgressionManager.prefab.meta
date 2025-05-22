@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 06fbaa6172449ea46bd2a30e43ae62f3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Prefabs/PlayerProgressionManager.prefab
+  uploadId: 757345

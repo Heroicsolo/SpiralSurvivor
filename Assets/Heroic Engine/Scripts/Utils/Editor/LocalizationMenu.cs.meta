@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b5ee790388ece4f47b6982b87e56ba04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Scripts/Utils/Editor/LocalizationMenu.cs
+  uploadId: 757345

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4682dc572145c9a4e89173ec2054c613
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Animations/Shooting Gun.anim
+  uploadId: 757345

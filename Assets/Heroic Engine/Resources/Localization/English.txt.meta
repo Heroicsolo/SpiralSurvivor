@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 06001f0b5de568d4f8fe3999a8f3cb8f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Resources/Localization/English.txt
+  uploadId: 757345

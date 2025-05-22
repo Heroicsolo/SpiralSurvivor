@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c480b33287727e740bdfd5e7b1ef9473
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Scripts/Systems/UI/IUIController.cs
+  uploadId: 757345

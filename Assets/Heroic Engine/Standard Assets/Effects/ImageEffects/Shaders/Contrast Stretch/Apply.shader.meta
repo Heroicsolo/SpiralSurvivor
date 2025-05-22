@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f4901f25d4e1542589348bbb89563d8e
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Standard Assets/Effects/ImageEffects/Shaders/Contrast
+    Stretch/Apply.shader
+  uploadId: 757345

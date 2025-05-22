@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 83c44b327b853c947a214f559629e487
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Scripts/Systems/Gameplay/IRandomEventsManager.cs
+  uploadId: 757345

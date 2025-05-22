@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b9d9c90cdb844124d94bb1a69d72a06a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Scripts/Systems/Gameplay/IQuestManager.cs
+  uploadId: 757345

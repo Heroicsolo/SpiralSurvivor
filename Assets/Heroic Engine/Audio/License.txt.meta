@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84714da696985e749a08635d3cb385c8
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Audio/License.txt
+  uploadId: 757345

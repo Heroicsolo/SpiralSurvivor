@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b869b5d5f4853a40ae1ace642a84f9d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Scriptables/PlayerProgressionParams.asset
+  uploadId: 757345

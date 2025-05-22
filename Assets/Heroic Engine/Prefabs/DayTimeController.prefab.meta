@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e03f8acfd6725c949896a6e2529769a2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Prefabs/DayTimeController.prefab
+  uploadId: 757345

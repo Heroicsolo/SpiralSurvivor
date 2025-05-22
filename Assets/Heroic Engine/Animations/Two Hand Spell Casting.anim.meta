@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5d4d39fa4267484ca6218f1fa2e0544
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Animations/Two Hand Spell Casting.anim
+  uploadId: 757345

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f374ddc2b88253849a13afbf778c6d31
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Prefabs/UI/MessageBoxButton.prefab
+  uploadId: 757345

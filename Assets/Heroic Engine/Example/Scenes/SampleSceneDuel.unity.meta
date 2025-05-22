@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7f5ce6e5c3a984d408d7efd160692f55
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Example/Scenes/SampleSceneDuel.unity
+  uploadId: 757345

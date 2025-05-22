@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 441354aff59dd3c4a8619513928bc7cc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Prefabs/Gameplay/SpawnObjectExample.prefab
+  uploadId: 757345

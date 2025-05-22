@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dcd360ce0bcbf934da85ec9d3f2b71fe
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Example/Scenes/WeatherTestScene.unity
+  uploadId: 757345

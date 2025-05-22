@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c60a635e09c429c4fb2dbf70380909f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Example/Scriptables/Duel Skills/AimShot.asset
+  uploadId: 757345

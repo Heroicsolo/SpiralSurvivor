@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65762a8c568d1124a8bab6ddb6c0453f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Prefabs/Gameplay/Spawner.prefab
+  uploadId: 757345

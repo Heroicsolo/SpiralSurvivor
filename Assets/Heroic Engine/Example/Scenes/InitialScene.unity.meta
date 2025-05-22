@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dce083f14c7459f4cba91dae5e6f6f84
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Example/Scenes/InitialScene.unity
+  uploadId: 757345

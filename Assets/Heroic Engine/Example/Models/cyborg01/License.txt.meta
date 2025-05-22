@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 968ad7fe71f29284ca06ecf629a9d811
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Example/Models/cyborg01/License.txt
+  uploadId: 757345

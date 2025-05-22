@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e856bfd3d8640fd4ba99608996acbc3c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Example/Prefabs/VFX/Regen.prefab
+  uploadId: 757345

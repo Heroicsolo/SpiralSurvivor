@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 188918ab119d93148aa0de59ccf5286b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs
+  uploadId: 757345

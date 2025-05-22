@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 88eb2909d98185c46a1c81b30ef988f6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Prefabs/InputManager.prefab
+  uploadId: 757345

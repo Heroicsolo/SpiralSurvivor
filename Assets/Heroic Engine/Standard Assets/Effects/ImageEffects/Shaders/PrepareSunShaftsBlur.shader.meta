@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 9ad381ed8492840ab9f165df743e4826
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306407
+  packageName: Heroic Engine | Simplify development of your game
+  packageVersion: 1.1.0
+  assetPath: Assets/Heroic Engine/Standard Assets/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader
+  uploadId: 757345
