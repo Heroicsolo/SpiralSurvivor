@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using Heroicsolo.SpiralSurvivor.LevelGeometry.Entities;
 using Heroicsolo.SpiralSurvivor.LevelGeometry.Utils;
+using Heroicsolo.SpiralSurvivor.Utils;
 using UnityEngine;
 
 namespace Heroicsolo.SpiralSurvivor.LevelGeometry
@@ -9,6 +10,7 @@ namespace Heroicsolo.SpiralSurvivor.LevelGeometry
     public class SpiralWallGenerator : MonoBehaviour
     {
         private const float TWO_PI = Mathf.PI * 2f;
+        private const int VOLUMETRIC_TEXTURE_DENSITY = 16;
 
         [Header("Spiral Settings")]
         [SerializeField] private float _startRadius = 1f;
@@ -19,14 +21,15 @@ namespace Heroicsolo.SpiralSurvivor.LevelGeometry
         [SerializeField] private int _segmentsPerTurn = 50;
         [SerializeField] private int _startOffset = -10;
 
-        private readonly Vector3Int _gridResolution = new(512, 32, 512);
-        private readonly Vector3 _volumeMin = new(-100, 0, -100);
-        private readonly Vector3 _volumeMax = new(100, 5, 100);
+        private Vector3Int _gridResolution;
+        private Vector3 _volumeMin;
+        private Vector3 _volumeMax;
 
         private SpiralWallEntity _wallEntity;
 
         private void Start()
         {
+            CalculateVolume();
             GenerateSpiralWall();
             
             _wallEntity = new SpiralWallEntity
@@ -39,6 +42,16 @@ namespace Heroicsolo.SpiralSurvivor.LevelGeometry
             };
 
             SpiralSDF3D.SetWallParams(_wallEntity);
+        }
+
+        private void CalculateVolume()
+        {
+            var levelRadius = _startRadius + _numTurns * _spacing * TWO_PI + _wallThickness;
+            _volumeMin = new Vector3(-levelRadius, 0, -levelRadius);
+            _volumeMax = new Vector3(levelRadius, _wallHeight * 2f, levelRadius);
+            var hResolution = MathUtils.NextPowerOfTwo(Mathf.CeilToInt(levelRadius * VOLUMETRIC_TEXTURE_DENSITY));
+            var vResolution = MathUtils.NextPowerOfTwo(Mathf.CeilToInt(_wallHeight * VOLUMETRIC_TEXTURE_DENSITY));
+            _gridResolution = new Vector3Int(hResolution, vResolution, hResolution);
         }
         
         private void OnDrawGizmos()
